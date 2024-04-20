@@ -6,26 +6,27 @@ WeatherPy is a Python project aimed at visualizing weather patterns across over 
 Requirements
 Part 1: WeatherPy
 
-    Objective: Develop a Python script to visualize weather data of over 500 cities.
-    Tools: Utilize citipy Python library, the OpenWeatherMap API, and problem-solving skills.
+Objective: Develop a Python script to visualize weather data of over 500 cities.
+Tools: Utilize citipy Python library, the OpenWeatherMap API, and problem-solving skills.
 
 Requirements Details
 
-    Create Plots: Visualize relationships between weather variables and latitude.
-    Compute Linear Regression: Analyze linear regression for each relationship, segregating data into Northern and Southern Hemispheres.
+Create Plots: Visualize relationships between weather variables and latitude.
+Compute Linear Regression: Analyze linear regression for each relationship, segregating data into Northern and Southern Hemispheres.
+You will have to supply your own api key in an api_keys file for the api to work. 
 
 Instructions
 
-    Clone the repository and open WeatherPy.ipynb.
-    Retrieve weather data using the provided code.
-    Create scatter plots illustrating the specified relationships.
-    Compute linear regression for each relationship and generate corresponding plots.
+ Clone the repository and open WeatherPy.ipynb.
+ Retrieve weather data using the provided code.
+ Create scatter plots illustrating the specified relationships.
+ Compute linear regression for each relationship and generate corresponding plots.
 
 Contributor
 
-    Kopano Majara
+ Kopano Majara
 
 Acknowledgements
 
-    OpenWeatherMap API
-    citipy Python Library
+ OpenWeatherMap API
+ citipy Python Library
